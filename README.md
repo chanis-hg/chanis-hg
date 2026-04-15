@@ -1,16 +1,23 @@
-## Hi there 👋
+## Gaïus Chanis HONTONWAKOU
 
-<!--
-**chanis-hg/chanis-hg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur Web - Designer UX/UI - Cotonou, Bénin**
 
-Here are some ideas to get you started:
+Étudiant en L2 Internet & Multimédia à l'IFRI-UAC.
+Je conçois des interfaces web qui allient rigueur technique
+et sensibilité créative — de la maquette Figma à la mise en ligne.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+`HTML/CSS` `JavaScript` `Figma` `Python` `Java` `SQL` `UX/UI Design`
+
+### En cours
+- Dashboard web interactif *(projet portfolio)*
+- Refonte complète du portfolio
+
+---
+
+### Me retrouver
+- Portfolio : [htkchanis.netlify.app](https://htkchanis.netlify.app)
+- LinkedIn : [linkedin.com/in/gaïus-chanis-08a782365](https://www.linkedin.com/in/ga%C3%AFus-chanis-08a782365)
+- Email : gaiuschanis03@gmail.com
