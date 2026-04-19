@@ -17,6 +17,6 @@ et sensibilité créative — de la maquette Figma à la mise en ligne.
 ---
 
 ### Me retrouver
-- Portfolio : [chanishg.netlify.app](https://htkchanis.netlify.app)
+- Portfolio : [chanishg.netlify.app](https://chanishg.netlify.app)
 - LinkedIn : [linkedin.com/in/gaïus-chanis-08a782365](https://www.linkedin.com/in/ga%C3%AFus-chanis-08a782365)
 - Email : gaiuschanis03@gmail.com
